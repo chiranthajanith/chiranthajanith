@@ -33,8 +33,6 @@
 
 ---
 
-[[Chirantha's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chiranthajanith&theme=tokyonight)](https://git.io/praveenscience)
-
 | ![Chirantha's github stats](https://github-readme-stats.vercel.app/api?username=chiranthajanith&show_icons=true&theme=tokyonight) | ![Chirantha GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chiranthajanith&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiranthajanith&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=chiranthajanith&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
