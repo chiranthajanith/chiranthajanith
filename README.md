@@ -33,7 +33,7 @@
 
 ---
 
-[![Chirantha's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chiranthajanith&theme=tokyonight)](https://git.io/praveenscience)
+[[Chirantha's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chiranthajanith&theme=tokyonight)](https://git.io/praveenscience)
 
 | ![Chirantha's github stats](https://github-readme-stats.vercel.app/api?username=chiranthajanith&show_icons=true&theme=tokyonight) | ![Chirantha GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chiranthajanith&theme=tokyonight) |
 | --- | --- |
